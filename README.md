@@ -1,3 +1,7 @@
+# My Notes
+1. The $ is a convention that indicates heroes$ is an Observable, not an array
+2. Short explanation about AsyncPipe - https://angular.io/tutorial/toh-pt6#herosearchcomponent
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
